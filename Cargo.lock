@@ -1,0 +1,4 @@
+[root]
+name = "TestRustApp"
+version = "0.1.0"
+
