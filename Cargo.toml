@@ -1,5 +1,5 @@
 [package]
-name = "TestRustApp"
+name = "test_rust_app"
 version = "0.1.0"
 authors = ["Andi-Bogdan Postelnicu <abpostelnicu@gmail.com>"]
 
